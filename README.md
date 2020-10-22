@@ -4,9 +4,8 @@ The housing dataset was obtained from [Kaggle](https://www.kaggle.com/quantbruce
 ### The project shows both the visualizaion and the prediction stages.
 
 ### Hyperparameters :
-`
+```
 - learning rate = 0.01
 - iterations = 400
-
-`
+```
 
